@@ -40,7 +40,7 @@ const App = () => {
             marginBottom: '15rem'
           }}
         >
-          Senior Software Engineer - Husband - Musician
+          Senior Software Engineer - Husband - Gamer - Musician
         </div>
       </div>
       <div tw="py-24 relative bg-white">
@@ -62,8 +62,8 @@ const App = () => {
               fontSize: 15,
               textAlign: 'left'
             }}>
-              February 2019 - Present
-              Senior Software Engineer - Bukalapak
+              Jul 2022 - Present @ Govtech Edu
+              - Software Development Engineer, Backend
             </div>
             <div tw="col-span-full sm:col-span-1"></div>
           </div>
@@ -73,8 +73,8 @@ const App = () => {
               fontSize: 15,
               textAlign: 'right'
             }}>
-              January 2018 - February 2019
-              Medior Software Engineer - Bukalapak
+              Feb 2019 - Jul 2022 @ Bukalapak
+              - Senior Software Engineer
             </div>
           </div>
           <div tw="grid grid-cols-2 text-center font-poppin">
@@ -82,8 +82,8 @@ const App = () => {
               fontSize: 15,
               textAlign: 'left'
             }}>
-              February 2016 - January 2018
-              Junior Software Engineer - Bukalapak
+              Jan 2018 - Feb 2019 @ Bukalapak
+              - Medior Software Engineer
             </div>
             <div tw="col-span-full sm:col-span-1"></div>
           </div>
@@ -93,9 +93,19 @@ const App = () => {
               fontSize: 15,
               textAlign: 'right'
             }}>
-              June 2014 - July 2014
-              Intern Software Engineer - SIRCLO
+              Feb 2016 - Jan 2018 @ Bukalapak
+              - Junior Software Engineer
             </div>
+          </div>
+          <div tw="grid grid-cols-2 text-center font-poppin">
+            <div tw="pl-4 pr-4 pb-4 text-gold-100 col-span-full sm:col-span-1 text-2xl tracking-widest font-poppin" style={{
+              fontSize: 15,
+              textAlign: 'left'
+            }}>
+              Jun 2014 - Jul 2014 @ SIRCLO
+              - Intern Software Engineer
+            </div>
+            <div tw="col-span-full sm:col-span-1"></div>
           </div>
         </div>
       </div>
@@ -112,8 +122,8 @@ const App = () => {
               fontSize: 15,
               textAlign: 'left'
             }}>
-              August 2015 - March 2016
-              Software Engineer - Encirclo
+              Aug 2015 - Mar 2016 - Encirclo -
+              Software Engineer
             </div>
             <div tw="col-span-full sm:col-span-1"></div>
           </div>
@@ -123,8 +133,8 @@ const App = () => {
               fontSize: 15,
               textAlign: 'right'
             }}>
-              January 2014 - August 2014
-              Software Engineer - Berguru.com
+              Jan 2014 - Aug 2014 - Berguru.com - 
+              Software Engineer
             </div>
           </div>
         </div>
@@ -134,7 +144,7 @@ const App = () => {
         style={{ color: '#2a3b72' }}
       >
         <div>
-          © 2022 by{' '}
+          © 2023 by{' '}
           <a href="https://akbarisanto.com" tw="font-semibold">
             akbarisanto
           </a>

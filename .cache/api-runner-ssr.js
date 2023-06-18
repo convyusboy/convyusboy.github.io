@@ -1,11 +1,11 @@
 var plugins = [{
-      plugin: require('/home/akbarisanto/akbarisanto-new/node_modules/gatsby-plugin-use-query-params/gatsby-ssr'),
+      plugin: require('/home/akbarisanto/projects/akbarisanto-new/node_modules/gatsby-plugin-use-query-params/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/home/akbarisanto/akbarisanto-new/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('/home/akbarisanto/projects/akbarisanto-new/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/home/akbarisanto/akbarisanto-new/node_modules/gatsby-plugin-react-leaflet/gatsby-ssr'),
+      plugin: require('/home/akbarisanto/projects/akbarisanto-new/node_modules/gatsby-plugin-react-leaflet/gatsby-ssr'),
       options: {"plugins":[],"linkStyles":true},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
