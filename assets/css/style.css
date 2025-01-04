@@ -534,6 +534,8 @@ section {
 --------------------------------------------------------------*/
 .portfolio .portfolio-item {
   margin-bottom: 30px;
+  border-radius: 22px!important;
+  overflow: hidden;
 }
 
 .portfolio #portfolio-flters {
@@ -583,7 +585,7 @@ section {
   right: 0;
   top: 0;
   bottom: 0;
-  transition: all ease-in-out 0.3s;
+  /* transition: all ease-in-out 0.3s; */
   z-index: 2;
   opacity: 0;
 }
@@ -602,15 +604,15 @@ section {
 
 .portfolio .portfolio-wrap .portfolio-links a {
   color: #fff;
-  font-size: 28px;
+  font-size: 25px;
   text-align: center;
-  background: rgba(20, 157, 221, 0.75);
-  transition: 0.3s;
-  width: 50%;
+  background: rgba(82, 95, 100, 0.75);
+  /* transition: 0.3s; */
+  width: 100%;
 }
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-  background: rgba(20, 157, 221, 0.95);
+  background: rgba(162, 163, 163, 0.95);
 }
 
 .portfolio .portfolio-wrap .portfolio-links a+a {
@@ -622,7 +624,7 @@ section {
   left: 0;
   right: 0;
   bottom: 0;
-  opacity: 1;
+  /* opacity: 1; */
 }
 
 .portfolio .portfolio-wrap:hover .portfolio-links {
@@ -1105,4 +1107,9 @@ section {
     width: auto;
     padding-right: 20px 15px;
   }
+}
+
+.glightbox-clean .gslide-title {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 700;
 }
