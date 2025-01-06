@@ -241,7 +241,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/profile-img.jpg") top right;
+  background: url("../img/profile-img.webp") top right;
   background-size: 1000px 1000px;
   background-repeat: no-repeat;
   background-color: white;
@@ -1112,4 +1112,12 @@ section {
 .glightbox-clean .gslide-title {
   font-family: 'Courier New', Courier, monospace;
   font-weight: 700;
+}
+
+.bootstrap {
+  color: #37b3ed;
+}
+
+.bootstrap:hover{
+  color: #03567C;
 }
